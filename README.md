@@ -1,2 +1,2 @@
 # rancher-desktop-tutorial
-As you know Docker Desktop is no more free 😞😞😞, so here in this article I am going to show you how to run your containers using rancher desktop
+Because Docker Desktop is no longer free, I'll show you a small example on how to run your containers(postgres, pgAdmin) using Rancher Desktop.
